@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Toe
 
 Welcome to the ***world's simplest*** tic-tac-toe!
 
